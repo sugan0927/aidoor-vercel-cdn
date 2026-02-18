@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://cloudcdn.aidoor.co.in/$1"
+      "dest": "https://www.aidoor.co.in/$1"
     }
   ]
 }
