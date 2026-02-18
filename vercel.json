@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://www.aidoor.co.in/*"
+      "dest": "https://www.aidoor.co.in/$1"
     }
   ]
 }
